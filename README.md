@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Beverly Xenia Laong 👋</h1>
-
 <p align="center">
   <img src="https://i.imgur.com/LAfxQvt.jpeg" alt="Profile Banner" />
 </p>
