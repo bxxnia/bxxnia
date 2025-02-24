@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Beverly Xenia Loong 👋</h1>
+<h1 align="center">Hi, I'm Beverly Xenia Laong 👋</h1>
 
 <p align="center">
   <img src="https://imgur.com/LAfxQvt" alt="Profile Banner" />
