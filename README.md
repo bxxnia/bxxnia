@@ -9,9 +9,3 @@
 [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/eurynia)
 
 ---
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bxxnia&show_icons=true&theme=radical" width="400px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bxxnia&theme=radical" width="400px" />
-</div>
